@@ -1,7 +1,7 @@
 1. Clonar um repositório
 
 ```shell
-git clone <url_do_repositorio>
+git clone url
 ```
 
 2. Configurar nome e email
